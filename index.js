@@ -64,7 +64,7 @@ function multiplicarArrayPorNumero(array, numero) {
     }
 }
 
-// Ejemplos de uso de las funciones
+
 esParOImpar(7);
 numeroMayor(10, 20);
 esMultiploDe5(25);
